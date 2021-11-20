@@ -37,5 +37,5 @@ https://www.cidr-report.org/as2.0/
 ![image](https://user-images.githubusercontent.com/47383452/141476542-3fb7c22d-c5b2-422d-8548-7296e71f4e94.png)
 
 ##### 사용 예시 : PIPE 활용하여 IP ASN 확인하기
-$PATH환경변수를 설정하여 명령어처럼 편하게 사용할 수 있습니다! :
+$PATH환경변수를 설정하여 편하게 사용할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/47383452/141483478-1ca8c23b-44fd-473d-8f03-980b23c0878f.png)
